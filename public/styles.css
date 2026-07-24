@@ -1,0 +1,177 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background: #f7f7f7;
+  color: #333;
+}
+
+.home-container,
+.search-container,
+.admin-container {
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.homepage .site-title {
+  font-size: 48px;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+
+.homepage .home-description,
+.homepage .home-how {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.search-button {
+  display: inline-block;
+  padding: 12px 24px;
+  background: #333;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 18px;
+  transition: background 0.2s;
+}
+
+.search-button:hover {
+  background
+.search-button:hover {
+  background: #555;
+}
+
+.index-card {
+  width: 100%;
+  background: #fffef7; /* soft index-card cream */
+  padding: 40px 30px;
+  border-radius: 10px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+  position: relative;
+  margin-bottom: 40px;
+
+  /* lined paper effect */
+  background-image:
+    repeating-linear-gradient(
+      to bottom,
+      #fffef7,
+      #fffef7 34px,
+      #e2e2e2 35px
+    );
+}
+
+.card-tab {
+  position: absolute;
+  top: -22px;
+  left: 25px;
+  background: #d8d8d8;
+  color: #444;
+  padding: 8px 14px;
+  border-radius: 6px 6px 0 0;
+  font-size: 15px;
+  font-weight: 600;
+  box-shadow: 0 -2px 6px rgba(0,0,0,0.15);
+}
+
+.card-lines {
+  margin-top: 10px;
+}
+
+.card-line {
+  font-size: 22px;
+  line-height: 34px; /* matches the line spacing above */
+  margin: 0;
+  padding-left: 4px;
+  color: #333;
+}
+
+.admin-fields {
+  margin-top: 25px;
+  padding: 12px;
+  background: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.next-button,
+#searchButton {
+  padding: 10px 20px;
+  font-size: 18px;
+  border: none;
+  background: #333;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  margin: 10px;
+  transition: background 0.2s;
+}
+
+.next-button:hover,
+#searchButton:hover {
+  background: #555;
+}
+
+.search-bar {
+  margin-top: 20px;
+}
+
+#searchInput {
+  padding: 10px;
+  width: 60%;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  margin-right: 10px;
+}
+
+.results {
+  margin-top: 30px;
+  text-align: left;
+}
+
+.results p {
+  background: white;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.login-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 15px;
+  color: #555;
+  text-decoration: none;
+  padding: 6px 10px;
+  border-radius: 4px;
+  background: transparent;
+  border: 1px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.login-button:hover {
+  color: #000;
+  border-color: #ccc;
+}
+
+.index-card {
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-image:
+  url("https://i.imgur.com/8fK4Z8L.png"), /* paper texture */
+  repeating-linear-gradient(
+    to bottom,
+    #fffef7,
+    #fffef7 34px,
+    #e2e2e2 35px
+  );
+
+}
+
