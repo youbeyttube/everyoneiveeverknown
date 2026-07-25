@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Card Drawer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="searchpage" data-page="search">
+  <header class="top-bar">
+    <div class="brand-mark">Everyone I've Ever Known</div>
+    <div class="top-actions">
+      <button class="top-button" id="goAdmin">Login</button>
+      <button class="top-button" onclick="window.location.href='index.html'">Home</button>
+    </div>
+  </header>
+
+  <main class="search-container">
+    <h2>Search the Archive</h2>
+
+    <input id="searchInput" placeholder="Search for a word...">
+    <button id="searchButton" class="primary-button">Search</button>
+
+    <div id="searchResults"></div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
