@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="admin-page">
+  <header class="top-bar">
+    <div class="brand-mark">Everyone I've Ever Known</div>
+    <div class="top-actions">
+      <button class="top-button" id="goHome">Home</button>
+    </div>
+  </header>
+
+  <main class="admin-container">
+
+    <h2 class="admin-title">Admin Console</h2>
+
+    <section id="loginPanel" class="admin-panel">
+      <h3>Login</h3>
+      <input type="password" id="adminPassword" placeholder="Enter admin password">
+      <button id="loginSubmit" class="primary-button small">Enter</button>
+    </section>
+
+    <section id="adminTools" class="admin-panel" style="display:none;">
+      <div class="admin-toolbar">
+        <span class="admin-status">Admin mode active</span>
+        <button id="logoutButton" class="secondary-button small">Log out</button>
+      </div>
+
+      <h3>Create New Entry</h3>
+      <input type="text" id="newName" placeholder="Name">
+      <input type="text" id="info1" placeholder="Sentence 1">
+      <input type="text" id="info2" placeholder="Sentence 2">
+      <input type="text" id="info3" placeholder="Sentence 3">
+      <button id="createEntry" class="primary-button small">Create Entry</button>
+
+      <hr>
+
+      <h3>Change Password</h3>
+      <input type="password" id="oldPass" placeholder="Current password">
+      <input type="password" id="newPass" placeholder="New password">
+      <button id="changePass" class="secondary-button small">Change Password</button>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
