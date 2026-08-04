@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Find a Person</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="search-page">
+  <header class="top-bar">
+    <div class="brand-mark">Everyone I've Ever Known</div>
+    <div class="top-actions">
+      <button class="top-button" id="goHome">Home</button>
+      <button class="top-button" id="goAdmin">Login</button>
+    </div>
+  </header>
+
+  <main class="search-container">
+
+    <section class="card-panel">
+      <div class="index-card">
+        <div class="card-tab" id="entryNumber">
+          #0
+        </div>
+
+        <div class="card-lines">
+          <p id="line1" class="card-line">Loading...</p>
+          <p id="line2" class="card-line"></p>
+          <p id="line3" class="card-line"></p>
+        </div>
+
+        <div class="admin-fields" id="adminFields" style="display:none;">
+          <p><strong>Name:</strong> <span id="adminName"></span></p>
+          <p><strong>Date Created:</strong> <span id="adminDate"></span></p>
+        </div>
+      </div>
+
+      <button class="next-button" id="nextButton">Find another Person</button>
+    </section>
+
+    <section class="search-panel">
+      <div class="search-bar">
+        <input type="text" id="searchInput" placeholder="Search for a word in the archive...">
+        <button id="searchButton" class="primary-button small">Search</button>
+      </div>
+
+      <div id="searchResults" class="results"></div>
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
