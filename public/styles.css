@@ -1,0 +1,67 @@
+/* ORIGINAL SIMPLE LOOK */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: white;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    padding: 6px 10px;
+    background: #ddd;
+    border: 1px solid #aaa;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #ccc;
+}
+
+/* ABOUT SECTION (original spacing) */
+.aboutSection {
+    max-width: 600px;
+    line-height: 1.6;
+    margin-bottom: 30px;
+}
+
+/* ENTRY LIST (original simple look) */
+.entryRow {
+    margin-bottom: 12px;
+    padding: 4px 0;
+}
+
+.entryButtons {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.editBtn, .deleteBtn {
+    cursor: pointer;
+    margin-left: 8px;
+    color: black;
+}
+
+.editBtn:hover, .deleteBtn:hover {
+    text-decoration: underline;
+}
+
+/* EDIT BLOCK (original simple look) */
+.entryEdit {
+    margin-top: 20px;
+}
+
+.entryEdit input {
+    width: 300px;
+    margin-bottom: 10px;
+    padding: 4px;
+}
