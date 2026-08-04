@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="nav">
+    <a href="index.html">Home</a>
+</div>
+
+<h1>Admin Panel</h1>
+
+<div id="loginSection">
+    <h3>Login</h3>
+    <input id="adminPassword" type="password" placeholder="Password">
+    <button onclick="adminLogin()">Login</button>
+    <p id="loginMessage"></p>
+</div>
+
+<div id="adminTools" style="display:none;">
+    <h3>Admin Tools</h3>
+
+    <button onclick="location.href='entries.html'">View All Entries</button>
+
+    <h3>Add New Entry</h3>
+    <input id="newName" placeholder="Name"><br>
+    <input id="newInfo1" placeholder="Info 1"><br>
+    <input id="newInfo2" placeholder="Info 2"><br>
+    <input id="newInfo3" placeholder="Info 3"><br>
+    <button onclick="addEntry()">Add Entry</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
