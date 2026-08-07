@@ -68,5 +68,15 @@
       "Engineer",
       "Bearded"
     ]
+  },
+  {
+    "entryNumber": 8,
+    "name": "Robin",
+    "created": "2026-08-07",
+    "info": [
+      "Cambridge educated",
+      "Good with and keen on bikes",
+      "Christian"
+    ]
   }
 ]
