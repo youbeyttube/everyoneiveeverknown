@@ -48,5 +48,15 @@
       "Knows the Latin names for plants",
       "Enjoys crime fiction"
     ]
+  },
+  {
+    "entryNumber": 6,
+    "name": "Bleric",
+    "created": "2026-08-07",
+    "info": [
+      "Avis",
+      "Check",
+      "Mate"
+    ]
   }
 ]
