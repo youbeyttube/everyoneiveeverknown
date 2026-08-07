@@ -18,5 +18,15 @@
       "Adopted a child",
       "Might think she's a better cook than she actually is"
     ]
+  },
+  {
+    "entryNumber": 3,
+    "name": "Eric",
+    "created": "2026-08-07",
+    "info": [
+      "Plays chess. Well",
+      "Loves music, and being quizzed about it",
+      "Is an accountant"
+    ]
   }
 ]
