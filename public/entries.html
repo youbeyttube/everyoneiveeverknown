@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>All Entries</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="entries-page">
+  <header class="top-bar">
+    <div class="brand-mark">Everyone I've Ever Known</div>
+    <div class="top-actions">
+      <button class="top-button" id="goHome">Home</button>
+      <button class="top-button" id="goAdmin">Admin</button>
+    </div>
+  </header>
+
+  <main class="entries-container">
+    <h2 class="admin-title">All Entries</h2>
+    <p class="entries-hint">Edit any field and press Save on that card to update it. Delete removes it permanently.</p>
+
+    <div class="entries-search-bar">
+      <input type="text" id="entriesSearchInput" placeholder="Search by name...">
+    </div>
+
+    <div id="entriesList" class="entries-list">
+      <p>Loading entries...</p>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
