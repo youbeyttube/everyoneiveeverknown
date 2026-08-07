@@ -58,5 +58,15 @@
       "Ginger haired",
       "Violinist"
     ]
+  },
+  {
+    "entryNumber": 7,
+    "name": "John R.",
+    "created": "2026-08-07",
+    "info": [
+      "Gamer",
+      "Engineer",
+      "Bearded"
+    ]
   }
 ]
