@@ -38,5 +38,15 @@
       "Intense",
       "Naturalist"
     ]
+  },
+  {
+    "entryNumber": 5,
+    "name": "Dad",
+    "created": "2026-08-07",
+    "info": [
+      "Accountant",
+      "Knows the Latin names for plants",
+      "Enjoys crime fiction"
+    ]
   }
 ]
