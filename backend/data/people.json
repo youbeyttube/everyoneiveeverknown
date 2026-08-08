@@ -88,5 +88,15 @@
       "Very curly dark hair",
       "No sense of a father"
     ]
+  },
+  {
+    "entryNumber": 10,
+    "name": "Gordon",
+    "created": "2026-08-08",
+    "info": [
+      "Very inventive",
+      "Very tall",
+      "Very intense"
+    ]
   }
 ]
