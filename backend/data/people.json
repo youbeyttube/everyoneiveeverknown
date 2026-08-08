@@ -98,5 +98,15 @@
       "Very tall",
       "Very intense"
     ]
+  },
+  {
+    "entryNumber": 11,
+    "name": "Pyro",
+    "created": "2026-08-08",
+    "info": [
+      "Cockney accent",
+      "Likes fire",
+      "Married to a South American Cook"
+    ]
   }
 ]
