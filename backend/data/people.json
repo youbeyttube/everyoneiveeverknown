@@ -118,5 +118,15 @@
       "Very sweet but apparently prone to being a little mean",
       "Enjoys all things textiles"
     ]
+  },
+  {
+    "entryNumber": 13,
+    "name": "Derek",
+    "created": "2026-08-11",
+    "info": [
+      "Wise",
+      "Had cancer",
+      "Loves his dog"
+    ]
   }
 ]
