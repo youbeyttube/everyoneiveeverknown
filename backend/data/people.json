@@ -128,5 +128,15 @@
       "Had cancer",
       "Loves his dog"
     ]
+  },
+  {
+    "entryNumber": 14,
+    "name": "Anton",
+    "created": "2026-08-11",
+    "info": [
+      "Makes music",
+      "Great skin",
+      "Moral compass. Of sorts."
+    ]
   }
 ]
