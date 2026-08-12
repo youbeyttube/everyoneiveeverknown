@@ -188,5 +188,15 @@
       "Likes dogs",
       "Scottish"
     ]
+  },
+  {
+    "entryNumber": 20,
+    "name": "Sara",
+    "created": "2026-08-12",
+    "info": [
+      "Short",
+      "Blond",
+      "Thinks she's good at her job in direct inverse proportion to how others perceive her"
+    ]
   }
 ]
