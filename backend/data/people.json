@@ -178,5 +178,15 @@
       "Struggles with weight",
       "Can ride a bike"
     ]
+  },
+  {
+    "entryNumber": 19,
+    "name": "Jock",
+    "created": "2026-08-12",
+    "info": [
+      "No front teeth",
+      "Likes dogs",
+      "Scottish"
+    ]
   }
 ]
