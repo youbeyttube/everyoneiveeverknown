@@ -268,5 +268,15 @@
       "Quite big",
       "Birth marked"
     ]
+  },
+  {
+    "entryNumber": 28,
+    "name": "Gerry",
+    "created": "2026-08-14",
+    "info": [
+      "Overweight",
+      "Smokes weird cigarettes",
+      "Chauvinistic"
+    ]
   }
 ]
