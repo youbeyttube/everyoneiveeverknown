@@ -228,5 +228,15 @@
       "Unhappy at work",
       "Loves reading and bikes and cars and walking and films"
     ]
+  },
+  {
+    "entryNumber": 24,
+    "name": "Marcus",
+    "created": "2026-08-14",
+    "info": [
+      "Only child",
+      "Likes gaming",
+      "Never eats sweet things"
+    ]
   }
 ]
