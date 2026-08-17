@@ -308,5 +308,25 @@
       "Mean, stubborn and petty",
       "Nearly always smiling"
     ]
+  },
+  {
+    "entryNumber": 32,
+    "name": "Ian D.",
+    "created": "2026-08-17",
+    "info": [
+      "Tall",
+      "Northern",
+      "Likes Bob Dylan"
+    ]
+  },
+  {
+    "entryNumber": 33,
+    "name": "Ian",
+    "created": "2026-08-17",
+    "info": [
+      "Suspicious",
+      "Racist",
+      "Looks Latino"
+    ]
   }
 ]
