@@ -348,5 +348,15 @@
       "Plays guitar",
       "One of the nicest people you'll ever meet."
     ]
+  },
+  {
+    "entryNumber": 36,
+    "name": "Rick",
+    "created": "2026-08-18",
+    "info": [
+      "Likes cheese",
+      "Honest",
+      "Reliable"
+    ]
   }
 ]
