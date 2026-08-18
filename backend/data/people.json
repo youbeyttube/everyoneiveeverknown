@@ -378,5 +378,15 @@
       "Works for the holidays",
       "Wears aprons"
     ]
+  },
+  {
+    "entryNumber": 39,
+    "name": "Edd.",
+    "created": "2026-08-18",
+    "info": [
+      "Privileged",
+      "Lazy",
+      "Mean"
+    ]
   }
 ]
