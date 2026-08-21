@@ -478,5 +478,15 @@
       "A bit prissy",
       "Likes gardening"
     ]
+  },
+  {
+    "entryNumber": 49,
+    "name": "Carol",
+    "created": "2026-08-21",
+    "info": [
+      "Likes dogs",
+      "Very chatty",
+      "Good for her age"
+    ]
   }
 ]
