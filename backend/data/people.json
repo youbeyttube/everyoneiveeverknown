@@ -408,5 +408,15 @@
       "Big eyes",
       "Good at drawing dragons"
     ]
+  },
+  {
+    "entryNumber": 42,
+    "name": "Carl",
+    "created": "2026-08-21",
+    "info": [
+      "Limps",
+      "Likes football",
+      "Always pretty jolly"
+    ]
   }
 ]
