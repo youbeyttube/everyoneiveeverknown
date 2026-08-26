@@ -558,5 +558,15 @@
       "Has a Guinea pig",
       "Struggles with food"
     ]
+  },
+  {
+    "entryNumber": 57,
+    "name": "Roger",
+    "created": "2026-08-26",
+    "info": [
+      "Ex-police",
+      "Enjoys photography",
+      "Probably/possibly lazy"
+    ]
   }
 ]
