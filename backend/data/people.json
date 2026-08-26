@@ -588,5 +588,15 @@
       "Likes kids",
       "Dances"
     ]
+  },
+  {
+    "entryNumber": 60,
+    "name": "Rachel",
+    "created": "2026-08-26",
+    "info": [
+      "Thin",
+      "Serious",
+      "Angry"
+    ]
   }
 ]
