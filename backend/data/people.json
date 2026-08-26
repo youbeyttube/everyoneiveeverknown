@@ -628,5 +628,15 @@
       "Talks a little too much and to fast",
       "Deals with emergencies in the phone"
     ]
+  },
+  {
+    "entryNumber": 64,
+    "name": "Tom (H news reader)",
+    "created": "2026-08-26",
+    "info": [
+      "Slightly famous",
+      "Quite short and stumpy",
+      "Gently funny"
+    ]
   }
 ]
