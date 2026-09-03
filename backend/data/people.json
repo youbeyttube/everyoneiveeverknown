@@ -818,5 +818,15 @@
       "Owned a 2CV",
       "Has a twin sister"
     ]
+  },
+  {
+    "entryNumber": 83,
+    "name": "Pat",
+    "created": "2026-09-03",
+    "info": [
+      "Overweight",
+      "Aggressive and demanding",
+      "Legally trained"
+    ]
   }
 ]
