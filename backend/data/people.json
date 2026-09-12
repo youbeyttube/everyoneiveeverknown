@@ -998,5 +998,15 @@
       "Secret job",
       "Quite interesting and quite clever"
     ]
+  },
+  {
+    "entryNumber": 101,
+    "name": "Scott",
+    "created": "2026-09-12",
+    "info": [
+      "Ginger hair",
+      "Sporty",
+      "Lecturer"
+    ]
   }
 ]
